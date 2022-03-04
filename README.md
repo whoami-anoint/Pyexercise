@@ -2,22 +2,22 @@
 
 These all are notes at the time of practice python. I'm sure these notes and concepts will help you in learning process of python language. 
 
-### Chapter 1: 
+### Chapter 01: 
 ***Modules,Comment,Pip***
 
-### Chapter 2: 
+### Chapter 02: 
 ***Variables and Data***
 
-### Chapter 3: 
+### Chapter 03: 
 ***Strings***
 
-## Chapter 4: 
+## Chapter 04: 
 ***Lists and Tuples***
 
-### Chapter 5: 
+### Chapter 05: 
 ***Dictionary and Sets***
 
-### Chapter 6 
+### Chapter 06 
 ***Conditional expression***
 
 
