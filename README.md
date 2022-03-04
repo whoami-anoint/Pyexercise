@@ -23,7 +23,7 @@ These all are notes at the time of practice python. I'm sure these notes and con
 
 
 Note: 
-```As these notes are preparing during the python programming learning and all these are executed properly. I recommend you to get concept and learn from these notes but don't copy these files blindly. First be sure what the code exact mean or how it works.```
+```As all these notes are prepared during the learning of python programming language and all these are executed properly. I recommend you to get concept and learn from these notes but don't copy these files blindly. First be sure what the code exact mean or how it works.```
 
 **You can learn from many of websites and youtube channel. You can use their method also learn from them but don't copy them blindly. You have to learn them deeply in right way. And keep continuity to your coding.**
 
