@@ -32,7 +32,7 @@ Note:
 ### Youtube Channel of Code with Harry (Hindi): https://youtu.be/gfDE2a7MKjA
 ### Youtube Channel of Code with Harry (English): https://youtu.be/EyEqWFvLDT8
 ### Online Python Interpreter : https://www.programiz.com/python-programming/online-compiler
-   (<bold>You can use Python Shell like IDLE, and take inputs from the user in our Python compiler.</bold>)
+   *You can use Python Shell like IDLE, and take inputs from the user in this Python compiler.*
 ### GeeksforGeeks: https://www.geeksforgeeks.org/python-programming-language
 ### W3Schools: https://www.w3schools.com/python/default.asp
 ## Tryhackme: https://tryhackme.com/jr/pythonbasics
