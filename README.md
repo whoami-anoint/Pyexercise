@@ -20,6 +20,8 @@ These all are notes at the time of practice python. I'm sure these notes and con
 ### Chapter 06 
 ***Conditional expression***
 
+### Chapter 07
+***Loop***
 
 
 Note: 
